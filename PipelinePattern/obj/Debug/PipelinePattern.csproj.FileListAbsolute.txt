@@ -1,0 +1,7 @@
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\bin\Debug\PipelinePattern.exe.config
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\bin\Debug\PipelinePattern.exe
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\bin\Debug\PipelinePattern.pdb
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\obj\Debug\PipelinePattern.csprojAssemblyReference.cache
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\obj\Debug\PipelinePattern.csproj.CoreCompileInputs.cache
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\obj\Debug\PipelinePattern.exe
+C:\Users\Kalpens\source\repos\PipelinePattern\PipelinePattern\obj\Debug\PipelinePattern.pdb
